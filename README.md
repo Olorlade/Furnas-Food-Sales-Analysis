@@ -1,11 +1,11 @@
 # Project Title: Sales Performance Analysis for Furnas Foods
-- [Project Definition](#project-definition)
+- [Problem Definition](#problem-definition)
 - [Objectives](#objectives)
-- [Data Source](#data_source)
-- [Tech Tool](#tech_tool)
-- [Data Processing & Transformation](#data_processing_&_transformation)
-- [Key Findings ](#key_findings)
-- [Data Analysis Questions](#data_analysis_questions)
+- [Data Source](#data-source)
+- [Tech Tool](#tech-tool)
+- [Data Processing and Transformation](#data-processing-and-transformation)
+- [Key Findings ](#key-findings)
+- [Data Analysis Questions](#data-analysis-questions)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
@@ -23,7 +23,7 @@ Furnas Foods seeks to optimize its sales strategy by identifying key revenue dri
 Sales transaction data from Furnas Foods (Excel dataset "Furnas Foods.xlsx"). Various sales KPIs including revenue, cost, efficiency, promotion effectiveness, and consumer segmentation.
 # Tech Tool
 Power BI for data processing, transformation, analysis, and visualization.
-# Data Processing & Transformation
+# Data Processing and Transformation
 - Data Cleaning: Handled missing values, standardized date formats, and removed duplicates using Power Query.
 - Calendar Table: Created a date table for time-based analysis.
 - Data Modeling: Structured relationships between Sales Records, Sales Personnel, Product Details, and Calendar Table.
