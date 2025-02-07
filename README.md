@@ -1,4 +1,14 @@
 # Project Title: Sales Performance Analysis for Furnas Foods
+- [Project Definition](#project-definition)
+- [Objectives](#objectives)
+- [Data Source](#data_source)
+- [Tech Tool](#tech_tool)
+- [Data Processing & Transformation](#data_processing_&_transformation)
+- [Key Findings ](#key_findings)
+- [Data Analysis Questions](#data_analysis_questions)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 
 # Problem Definition
 Furnas Foods seeks to optimize its sales strategy by identifying key revenue drivers, cost efficiency, and consumer behavior trends. Understanding these elements is crucial to maximizing profitability, improving marketing strategies, and making data-driven business decisions.
@@ -20,7 +30,7 @@ Power BI for data processing, transformation, analysis, and visualization.
 - Calculated Metrics: Derived sales efficiency, profit margin, and spending pattern distribution.
 - New Columns & Measures: Created calculated fields to enhance analysis.
 - New Parameters: Defined variables for the number of products, pricing factors, and sales cycles
-# Findings (summary)
+# Key Findings
 •	The 25-34 age group generated the highest revenue ($133.1K), indicating strong purchasing power.
 
 •	Bundle promotions outperformed other discount strategies, contributing $221.8K in revenue.
