@@ -20,6 +20,14 @@ Power BI for data processing, transformation, analysis, and visualization.
 - Calculated Metrics: Derived sales efficiency, profit margin, and spending pattern distribution.
 - New Columns & Measures: Created calculated fields to enhance analysis.
 - New Parameters: Defined variables for the number of products, pricing factors, and sales cycles
+# Findings (summary)
+•	The 25-34 age group generated the highest revenue ($133.1K), indicating strong purchasing power.
+
+•	Bundle promotions outperformed other discount strategies, contributing $221.8K in revenue.
+
+•	The South region was the highest revenue-generating location ($244K), suggesting a strong market presence.
+
+•	Certain months (e.g., June and July) showed peak sales activity, valuable for seasonal marketing strategies.
 
 # Data Analysis Questions
 ## Sales Performance
@@ -49,14 +57,6 @@ The overall Profit margin is 10.44%. With regional breakdown, the East is at the
 The Supermarket sales channel generated a profit of $29.8K with 51 quantity sold, compared to the Online sales channel that sold 49 products and generated a profit of $29.2K.
 -	### Are certain customer segments associated with lower or higher profit margins?
 The customer segment with age group 55+ with revenue $92.2K has the lowest profit margin of 9.98%, while the age group 25-34 that has the highest revenue contributed 10.97% profit margin, followed closely by age group 45-84.
-# Findings (summary)
-•	The 25-34 age group generated the highest revenue ($133.1K), indicating strong purchasing power.
-
-•	Bundle promotions outperformed other discount strategies, contributing $221.8K in revenue.
-
-•	The South region was the highest revenue-generating location ($244K), suggesting a strong market presence.
-
-•	Certain months (e.g., June and July) showed peak sales activity, valuable for seasonal marketing strategies.
 # Visualization
 - KPI Cards: Showcased total revenue, total cost, total profit, sales efficiency, and profit margin.
 - Line Charts: Illustrated trends of total revenue vs. total cost across months.
@@ -64,7 +64,7 @@ The customer segment with age group 55+ with revenue $92.2K has the lowest profi
 - Pie Chart: Depicted customer spending distribution (low, medium, and high spenders).
 - Gauge Charts: Showed revenue and profit performance against targets.
 # Recommendations
-#### Here are some recommendations I would proffer:
+#### Here are my recommendations:
 - Leverage Targeted Marketing: The high value segments, age-group (25-34 & 18-24) and regions should be targeted. Personalized marketing can maximize revenue. 
 - Optimize Discount Strategies: Leverage on the Bundle promotion, they performed best. Scale them up alongside strategic discount campaigns for underperforming ones like BOGO
 - Monitor Sales Performance: Regularly assess efficiency and profit margin trends to adjust pricing strategies.
@@ -74,6 +74,8 @@ The customer segment with age group 55+ with revenue $92.2K has the lowest profi
 
 # Conclusion
 This data-driven approach ensures Furnas Foods remains competitive and maximizes its business potential.
+
+To explore the interactive sales report [click here](https://tinyurl.com/furnasfoods)
 
 
 
