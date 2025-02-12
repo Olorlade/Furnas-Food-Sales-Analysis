@@ -74,6 +74,8 @@ The customer segment with age group 55+ with revenue $92.2K has the lowest profi
 - Bar Charts: Highlighted best-performing age groups, promotion codes, salespersons, and regions.
 - Pie Chart: Depicted customer spending distribution (low, medium, and high spenders).
 - Gauge Charts: Showed revenue and profit performance against targets.
+![](Sales_Record.png)
+![](Sales_Analysis.png)
 # Recommendations
 #### Here are my recommendations:
 - Leverage Targeted Marketing: The high value segments, age-group (25-34 & 18-24) and regions should be targeted. Personalized marketing can maximize revenue. 
