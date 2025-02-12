@@ -1,4 +1,5 @@
-# Project Title: Sales Performance Analysis for Furnas Foods
+## Project Title: Sales Performance Analysis for Furnas Foods
+# TABLE OF CONTENT
 - [Problem Definition](#problem-definition)
 - [Objectives](#objectives)
 - [Data Source](#data-source)
