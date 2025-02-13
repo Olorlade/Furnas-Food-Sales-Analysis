@@ -5,8 +5,10 @@
 - [Data Source](#data-source)
 - [Tech Tool](#tech-tool)
 - [Data Processing and Transformation](#data-processing-and-transformation)
+- [Data Analysis](#data-analysis)
 - [Key Findings ](#key-findings)
 - [Data Analysis Questions](#data-analysis-questions)
+- [Visualization](#visualization)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
@@ -31,6 +33,14 @@ Power BI for data processing, transformation, analysis, and visualization.
 - Calculated Metrics: Derived sales efficiency, profit margin, and spending pattern distribution.
 - New Columns & Measures: Created calculated fields to enhance analysis.
 - New Parameters: Defined variables for the number of products, pricing factors, and sales cycles
+
+# Data Analysis
+- Revenue and cost trends over the months were analyzed to identify peak sales periods.
+- Customer segmentation based on age groups and spending patterns.
+- Promotion code effectiveness was evaluated to determine the best discount strategies.
+- Sales personnel performance was reviewed to highlight top contributors to profit.
+- Regional sales comparison provided insights into high-revenue locations.
+
 # Key Findings
 •	The 25-34 age group generated the highest revenue ($133.1K), indicating strong purchasing power.
 
